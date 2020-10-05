@@ -1,6 +1,6 @@
 [chall]
 DisplayName=Angry attack
-Author=The Devs Cousin
+Author=-
 char1=20
 char2=10
 char3=10
@@ -156,4 +156,4 @@ ID=1221547
 Prize=5:luck
 Bonus=1000
 allowsecrets=0
-disablepowerups=1
+disablepowerups=0
